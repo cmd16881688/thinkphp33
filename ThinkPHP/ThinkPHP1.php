@@ -91,7 +91,7 @@ if(!IS_CLI) {
     }
 }
 
-// 加载核心Think类
+// 加载核心Think类22222
 require CORE_PATH.'Think'.EXT;
 // 应用初始化 
 Think\Think::start();jjj
