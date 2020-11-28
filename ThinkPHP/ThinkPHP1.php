@@ -18,7 +18,7 @@ $GLOBALS['_beginTime'] = microtime(TRUE);
 // 记录内存初始使用
 define('MEMORY_LIMIT_ON',function_exists('memory_get_usage'));
 if(MEMORY_LIMIT_ON) $GLOBALS['_startUseMems'] = memory_get_usage();
-
+hhhh111111
 // 版本信息
 const THINK_VERSION     =   '3.2.3';
 
@@ -64,7 +64,7 @@ defined('CONF_PARSE')   or define('CONF_PARSE',     '');    // 配置文件解�
 defined('ADDON_PATH')   or define('ADDON_PATH',     APP_PATH.'Addon');
 
 // 系统信息
-if(version_compare(PHP_VERSION,'5.4.0','<')) {
+if(version_compare(PHP,'5.4.0','<')) {
     ini_set('magic_quotes_runtime',0);
     define('MAGIC_QUOTES_GPC',get_magic_quotes_gpc()?True:False);
 }else{
