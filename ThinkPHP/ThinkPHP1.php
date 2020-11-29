@@ -99,3 +99,4 @@ require CORE_PATH.'Think'.EXT;
 require CORE_PATH.'Think'.EXT;
 // 应用初始化 
 Think\Think::start();jjj
+feaatrue1
