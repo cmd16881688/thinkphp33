@@ -101,3 +101,4 @@ require CORE_PATH.'Think'.EXT;
 Think\Think::start();jjj
 feaatrue2
 Think\Think::start();jjj
+111
