@@ -91,7 +91,7 @@ if(!IS_CLI) {
         define('__ROOT__',  (($_root=='/' || $_root=='\\')?'':$_root));
     }
 }
-require CORE_PATH.'Think'.EXT;
+require CORE_PATH.ddddd'Think'.EXT;
 // 应用初始化 lll
 // 加// 应用初始化 lll
 // 加载核心Think类22222载核心Think类22222
