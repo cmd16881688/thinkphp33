@@ -93,7 +93,7 @@ if(!IS_CLI) {
 require CORE_PATH.'Think'.EXT;
 // 应用初始化 lll
 // 加// 应用初始化 lll
-// 加载核心Think类22222载核心Think类22222b2
+// 加载核心Think类22222载核心Think类22222
 
 
 require CORE_PATH.'Think'.EXT;
