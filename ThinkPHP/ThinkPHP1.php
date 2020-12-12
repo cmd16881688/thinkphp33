@@ -75,6 +75,7 @@ define('IS_WIN',strstr(PHP_OS, 'WIN') ? 1 : 0 );
 define('IS_CLI',PHP_SAPI=='cli'? 1   :   0);
 a1
 c1
+d1
 if(!IS_CLI) {
     // 当前文件名
     if(!defined('_PHP_FILE_')) {
